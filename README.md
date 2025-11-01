@@ -1,5 +1,5 @@
 # Image-Colorization-Using-CNN
-Enhancements in this Version 
+# Enhancements in this Version 
 from google.colab import files
 uploaded = files.upload()
 
